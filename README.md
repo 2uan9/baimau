@@ -8,6 +8,8 @@ Bài làm:
 
 link: https://gallery.appinventor.mit.edu/?galleryid=5a7dec44-6410-4887-9d77-4a9f6ae47a6d
 Quá trình làm:
+![MIT App Inventor - Google Chrome 2_28_2025 10_19_34 AM](https://github.com/user-attachments/assets/72378371-6f72-4e80-b6ef-cbff25c7556f)
+
 ![image](https://github.com/user-attachments/assets/e81a4aff-1800-45b7-9be8-d8694ea018be)
 
 ![image](https://github.com/user-attachments/assets/f74955a2-64dd-4f2d-b681-1bc987b6b1ad)
